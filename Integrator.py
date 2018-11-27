@@ -56,6 +56,7 @@ def main():
     if graf!='no' and graf!='No':
         Win=GraphWin('original and integral',500,500)
         Win.setCoords(-10,-10,10,10)
+       
         
         
         
@@ -63,6 +64,6 @@ def main():
         
         
         
-'''consider putting lines from 0 to the height of the graph to simolate shadding'''    
+'''consider putting lines from 0 to the height of the graph to simulate shadding'''    
 main()
     
