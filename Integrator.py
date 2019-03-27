@@ -1,7 +1,7 @@
 #Austin O'Quinn
 #23Nov2018
 def Integration(func):
-    '''I should add the ability to have more than one term by having the main split the function at pluses and minuses or something similar, This will be anoying'''
+    '''I should add the ability to have more than one term by having the main split the function at pluses and minuses or something similar'''
     
     #Helps prevent errors in range
     func=' '+func+' '
